@@ -6,4 +6,3 @@ else:
     print('De letter ' +letter+ ' zit niet in het woord ' +woord)
     
 
-
