@@ -1,0 +1,6 @@
+yahoo:YHOO
+Google:GOOG
+Harley-Davidson:HOG
+Yamaha Gold:AUY
+Sotheby':BID
+inBev:BUD
